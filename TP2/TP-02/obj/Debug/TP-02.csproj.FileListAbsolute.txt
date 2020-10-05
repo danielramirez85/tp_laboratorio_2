@@ -31,3 +31,13 @@ C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T0727
 C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T072745Z-001\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T072745Z-001\TP-02\TP-02\obj\Debug\TP-02.exe
 C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T072745Z-001\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\bin\Debug\TP-02.exe
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\bin\Debug\TP-02.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\obj\Debug\TP-02.exe
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\TP-02\obj\Debug\TP-02.pdb

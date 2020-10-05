@@ -17,3 +17,9 @@ C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T0727
 C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T072745Z-001\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T072745Z-001\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\dannycarlifornia\Downloads\tps lab2 2da cursada\TP2\TP-02-20200920T072745Z-001\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\dannycarlifornia\Documents\GitHub\tp_laboratorio_2\TP2\Entidades\obj\Debug\Entidades.pdb
