@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDi75+KVz/7B5zh++IFpTKo4Vr3jyqsZr0tte0YvKP3RVugPunN/TBeSGXh5QALFaSAO88nOkEV+FjBCe8zdDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\EntidadesInstanciables\\EntidadesInstanciables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dannycarlifornia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dannycarlifornia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

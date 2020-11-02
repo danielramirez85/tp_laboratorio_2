@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0g4A3vTAWwJ+fkIUI+t6H/G8IkSHxedHbrlPPz4zlp1As2VvJ0D1/ubRs4JpgiTin7OpRQKuSMIHtu0Cohkn4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dannycarlifornia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dannycarlifornia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
