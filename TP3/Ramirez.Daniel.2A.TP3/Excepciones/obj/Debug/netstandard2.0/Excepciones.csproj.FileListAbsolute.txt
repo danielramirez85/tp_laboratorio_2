@@ -7,3 +7,12 @@ C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\
 C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.dll
 C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.pdb
 C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.csprojAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\bin\Debug\netstandard2.0\Excepciones.deps.json
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\bin\Debug\netstandard2.0\Excepciones.dll
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\bin\Debug\netstandard2.0\Excepciones.pdb
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.csprojAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfo.cs
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.dll
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Excepciones\obj\Debug\netstandard2.0\Excepciones.pdb

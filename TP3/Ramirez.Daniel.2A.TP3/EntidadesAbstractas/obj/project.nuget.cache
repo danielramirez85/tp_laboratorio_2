@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2IZB2ccJBY1IqyhXPU2sF+NJU2+YZirk0wrSqAjx+FnFNiMVLlON5hrmPeA/O/mL6LxWvlB9nfNyzoFv6rO+MQ==",
+  "dgSpecHash": "G5wCX60izOGXaNWyIHlwPiinme6gyoPF2u5p9W0+i2Oeo5/X713ERJgiZkU0IrE9u44ZUY/6lxkQRe0XpfAUxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj",
+  "projectFilePath": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dannycarlifornia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\dannycarlifornia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

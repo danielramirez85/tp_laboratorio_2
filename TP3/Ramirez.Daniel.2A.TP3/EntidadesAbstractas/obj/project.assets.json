@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj",
+      "projectUniqueName": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj",
       "projectName": "EntidadesAbstractas",
-      "projectPath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj",
+      "projectPath": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\EntidadesAbstractas.csproj",
       "packagesPath": "C:\\Users\\dannycarlifornia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\obj\\",
+      "outputPath": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\EntidadesAbstractas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -225,8 +225,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj": {
-              "projectPath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj"
+            "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj": {
+              "projectPath": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj"
             }
           }
         }

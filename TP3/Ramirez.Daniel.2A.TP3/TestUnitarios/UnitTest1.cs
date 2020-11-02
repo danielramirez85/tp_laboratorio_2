@@ -81,7 +81,7 @@ namespace TestUnitarios
                 Alumno a1 = new Alumno(1, "Juan", "Lopez", "kj72234457", EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.Becado);
                 Assert.Fail();
             }
-            catch(DniInvalidoException e)
+            catch(Exception e)
             {
                 Assert.IsInstanceOfType(e, typeof(DniInvalidoException));
             }

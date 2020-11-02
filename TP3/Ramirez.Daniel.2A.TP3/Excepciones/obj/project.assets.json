@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj",
+      "projectUniqueName": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj",
       "projectName": "Excepciones",
-      "projectPath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj",
+      "projectPath": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\Excepciones\\Excepciones.csproj",
       "packagesPath": "C:\\Users\\dannycarlifornia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dannycarlifornia\\Downloads\\Ramirez.Daniel.2A.TP3\\Excepciones\\obj\\",
+      "outputPath": "C:\\Users\\dannycarlifornia\\Documents\\Ramirez.Daniel.2A.TP3\\Excepciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

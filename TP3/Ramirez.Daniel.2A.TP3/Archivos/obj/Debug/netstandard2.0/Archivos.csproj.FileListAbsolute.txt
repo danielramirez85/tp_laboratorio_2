@@ -10,3 +10,15 @@ C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\net
 C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csproj.CopyComplete
 C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.dll
 C:\Users\dannycarlifornia\Downloads\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.pdb
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\netstandard2.0\Archivos.deps.json
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\netstandard2.0\Excepciones.dll
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\bin\Debug\netstandard2.0\Excepciones.pdb
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csprojAssemblyReference.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.AssemblyInfo.cs
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csproj.CopyComplete
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.dll
+C:\Users\dannycarlifornia\Documents\Ramirez.Daniel.2A.TP3\Archivos\obj\Debug\netstandard2.0\Archivos.pdb
